@@ -2,8 +2,7 @@
 LCS Lottery
 
 The LCS lottery lets people enter with a ticket number into a lottery. 
-A winning number is drawn and every person gets credits in the amount of the longest common subsequence (LCS) 
-with their own ticket number.
+A winning number is drawn and every person gets credits in the amount of the longest common subsequence (LCS) with their own ticket number.
 The LCS is the longest (not necessarily contiguous) shared subsequence in two strings.
 For example the strings 1234567890 and 13153137531 share the LCS of 1357:
 
